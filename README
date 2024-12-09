@@ -1,0 +1,10 @@
+# Chance discovery
+
+## Required packages
+You need to install the networkx and pyvis packages using pip.
+
+## setup.py
+You need to run this script once to install files that NLTK requires.
+
+## chance-discovery.py
+This streamlit app creates an opportunity graph.
